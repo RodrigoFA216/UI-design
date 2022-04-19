@@ -40,9 +40,8 @@ En este contexto (diseño digital de interfaces) tenemos que definir como tal la
 UX significa User Experience, esto es como un usuario puede interactuar con una marca y/o producto y cómo a partir de esta interacción se tienen distintos resultados positivos o negativos al momento de usar la marca/producto.
 
 El diseño UI es un subconjunto del diseño UX:
-<p align="center">
+
 ![If you see me... something go wrong](./UX%20UI.png)
-</p>
 sin embargo y a pesar de todo, el diseño UI es la parte que el usuario final como cliente de nuestra plataforma y/o servicio va a ser el consumidor final de la interfaz de usuario. 
 
 <p align="center">
@@ -78,9 +77,22 @@ Esto nos ha llevado a desarollar un estandar de niveles de complejidad para las 
 
 ## Proceso de diseño UI <a name="id5"></a>
 
-1. Proceso de negocio
-2. User 
-3. Screen Flow
+1. Proceso de negocio:
+Necesitamos entender lo que hace el negocio, cómo lo hace y para qué lo hace. 
+
+Para ayudarnos a entender eso ocupamos un modelo operacional básico. en palabras más simples esta etapa se trata de identificar que es lo que le importa o que prioriza el cliente, si nuestro cliente es una empresa de noticias van a prorizar cómo se ve la información de tipo texto, si fuera nuestro cliente un youtuber el priorizará de manera distinta la información de tipo texto y la visual. Nosotros como diseñadores UI necesitamos hacer que una interfaz de un proceso se digitalice y/o sea lo suficientemente clara para el usuario
+
+2. User persona:
+Necesitamos crear un perfil del usuario ideal de tu interfaz,  con sus deseos y necesidades.
+
+Los perfiles ficticios que necesitamos crear van a ser usuarios potenciales de la plataforma, ya que siempre deben ser creados enfocándose al target de nuestra plataforma, es decir que si estamos diseñando una interfaz para un banco no vamos a introducir elementos vistosos para fomentar las distracciones como lo haría una aplicación recreativa. esto nos ayudará a que cuando estemos diseñando la plataforma en el siguinete paso siempre tengamos fresco nuestro target no solo para nuestro equipo de diseño si no para los demás equipos.
+
+3. Screen Flow: 
+Necesitamos entender las pantallas que el usuario verá en su flujo de trabajo.
+
+Para lograr esto podemos hacer un mapa de contenidos del sitio, es decir que botón o palabra clave que introduciremos al botón nos va a llevar a dónde, y de qué manera estará jerarquizada esa información. Por ejemplo, nuestro target son las personas que quieren aprender programación, dentro de la página en inicio debemos situar un botón que diga "Contenido", dentro necesitamos poder ver el blog con los post más recientes, separado a su vez de los tutoriales, que estarán separados por los cursos formales que estarán divididos por lenguajes. De esta forma tendríamos correctamente jerarquizada y priorizada la información.
+![If you see me... something go wrong](./ScreenFlow1.png)
+
 4. Wireframes
 5. Diseño de alta fidelidad
 6. Prototipado
