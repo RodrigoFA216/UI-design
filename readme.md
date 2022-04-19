@@ -91,9 +91,19 @@ Los perfiles ficticios que necesitamos crear van a ser usuarios potenciales de l
 Necesitamos entender las pantallas que el usuario verá en su flujo de trabajo.
 
 Para lograr esto podemos hacer un mapa de contenidos del sitio, es decir que botón o palabra clave que introduciremos al botón nos va a llevar a dónde, y de qué manera estará jerarquizada esa información. Por ejemplo, nuestro target son las personas que quieren aprender programación, dentro de la página en inicio debemos situar un botón que diga "Contenido", dentro necesitamos poder ver el blog con los post más recientes, separado a su vez de los tutoriales, que estarán separados por los cursos formales que estarán divididos por lenguajes. De esta forma tendríamos correctamente jerarquizada y priorizada la información.
-![If you see me... something go wrong](./ScreenFlow1.png)
+![If you see me... something go wrong](./ScreenFlow1.pnggit)
 
-4. Wireframes
+Para aplicaciones podemos hacer este tipo de screen flow a manera de flujo de pantallas sencillo como el siguiente:
+
+![If you see me... something go wrong](./ScreenFlow2.png)
+
+Este paso nos ayuda a identificar que pantallas se tienen que diseñar para poder realizar un diseño correcto de nuestra plataforma, aplicación o webpage.
+
+4. Wireframes: 
+Necisitamos especificar una vista rápida de los bloques que construyen cada pantalla.
+
+Para este paso necesitamos reconocer los apartados funcionales y de interacción con el usuario así como de especificar pensando en las proporciones los elementos multimedia que necesitamos colocar en nuestra página web, esto provocará que en el siguiente paso podamos hacer un diseño fiel a lo que se debería de presentar. Los wireframes deben contener las especificaciones de los botones y capacidad de interacción 
+
 5. Diseño de alta fidelidad
 6. Prototipado
 7. Feedback
