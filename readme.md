@@ -58,7 +58,7 @@ El diseñador UI no tiene que ser experto en nada, sin embargo si saber los fund
 
 Es cierto que el diseño gráfico no es lo mismo que el diseño UI, sin embargo van de la mano para poder lograr ser de alguna forma una mancuerna de conocimientos disponibles para poder diseñar de forma adecuada una interfaz de usuario mediante la composición, análisis de color y más técnicas del diseño gráfico.
 
-## Diseño para Webs vs Apps vs WebApps <a name="id5"></a>
+## Diseño para Webs vs Apps vs WebApps <a name="id3"></a>
 
 Estrictamente es distinto lo que como usuarios podemos encontrar en una Web a lo que como usuarios podemos encontrar en
 una App. Por ejemplo, hablando desde la generalización:
@@ -75,7 +75,7 @@ Esto nos ha llevado a desarollar un estandar de niveles de complejidad para las 
 2. Mostrar información personalizada (gestión de usuarios)
 3. Capturar y mostrar información personalizada (interacción con la plataforma para completar una tarea).
 
-## Proceso de diseño UI <a name="id5"></a>
+## Proceso de diseño UI <a name="id4"></a>
 
 1. Proceso de negocio:
 Necesitamos entender lo que hace el negocio, cómo lo hace y para qué lo hace. 
@@ -100,13 +100,30 @@ Para aplicaciones podemos hacer este tipo de screen flow a manera de flujo de pa
 Este paso nos ayuda a identificar que pantallas se tienen que diseñar para poder realizar un diseño correcto de nuestra plataforma, aplicación o webpage.
 
 4. Wireframes: 
-Necisitamos especificar una vista rápida de los bloques que construyen cada pantalla.
+Necesitamos especificar una vista rápida de los bloques que construyen cada pantalla.
 
-Para este paso necesitamos reconocer los apartados funcionales y de interacción con el usuario así como de especificar pensando en las proporciones los elementos multimedia que necesitamos colocar en nuestra página web, esto provocará que en el siguiente paso podamos hacer un diseño fiel a lo que se debería de presentar. Los wireframes deben contener las especificaciones de los botones y capacidad de interacción 
+Para este paso necesitamos reconocer los apartados funcionales y de interacción con el usuario así como de especificar pensando en las proporciones los elementos multimedia que necesitamos colocar en nuestra página web, esto provocará que en el siguiente paso podamos hacer un diseño fiel a lo que se debería de presentar. Los wireframes deben contener las especificaciones de los botones y capacidad de interacción con el usuario.
 
-5. Diseño de alta fidelidad
-6. Prototipado
-7. Feedback
-8. Entrega
+
+5. Diseño de alta fidelidad:
+Necesitamos concretar un diseño visual, tal cual es específicamente cómo lo va a ver el usuario y cómo va a interactuar con el ya que es la capa superior que pone en la mesa el diseño final.
+
+![If you see me... something go wrong](./Dise%C3%B1oHIFI.webp)
+
+- Arounda: UX/UI & WEB. Product Design Agency: SaaS, B2B. UX/UI, Mobile & Web Design.
+
+Dentro de esta parte se pone en pie cada uno de los elementos que van a formar parte de este diseño de la forma más cercana posible a la forma en la que van a quedar cuando se diseñe con código.
+
+
+6. Prototipado:
+Necesitamos presentar un prototipo semi funcional que sirve para presentar el diseño y obtener feedback.
+
+Ocupamos el producto creado por el paso anterior, el diseño de alta fidelidad, sin embargo a este le vamos a agregar cierta funcionalidad específica para simular las interacciones usuario-plataforma.
+
+7. Feedback:
+En esta etapa necesitamos escuchar los comentarios de la parte técnica de la compañía, ya sea la del Product Owner o la del Product Manager y quizás hasta la de nuestro Scrum Master ya que necesitamos saber si todo nuestro diseño encaja en el presupuesto de tiempos de entrega, costes de producción y capital humano (es decir si hay la gente en el equipo que pueda llevar nuestro diseño a código) Así mismo nuestro cliente nos debe de dar una evaluación si el prototipo es correcto y funcional, no necesariamente tiene que ser el cliente final, pueden ser clientes potenciales o users persona reales que sean usuarios potenciales de nuestra plataforma o aplicación
+
+8. Entrega:
+En esta parte se hace la entrega al equipo de desarrollo de todos los productos que se realizaron al momento de diseñar la interfaz. Todo esto depende de cómo se acuerde con el equipo de desarrollo. Necesitamos enterarnos de nuestros protocolos de entrega para cada empresa ya que pueden ser más o menos estrictos.
 
 
